@@ -7,15 +7,21 @@ Key Features:
 </h3>
 <br>
 User profiles and friend management
+<br>
 Posting and commenting on updates
+<br>
 Liking and reacting to posts
+<br>
 Viewing timeline and memories
+<br>
 File-based data storage and retrieval
 <br>
 <h3>
 Technologies Used:
 </h3>
-
+<br>
 C++ programming language
+<br>
 Object-oriented programming (OOP) concepts
+<br>
 File handling and input/output operations
